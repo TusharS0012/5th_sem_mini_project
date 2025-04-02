@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.searchbar {
+  background-color: rgb(255, 255, 255);
+  min-width: 10vw;
+}
+.sidebar {
+  background-color: #ffffff;
+  min-width: 12vw;
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+
+.body{
+  width: 100%;
+  height: 100%;
+}
